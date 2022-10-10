@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq < ls -t1 > sort > ls -t1 
